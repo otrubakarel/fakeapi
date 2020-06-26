@@ -2,8 +2,24 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
-    }
+      "title": "Title 1",
+      "text": "Text 1"
+    },
+    {
+      "id": 2,
+      "title": "Title 2",
+      "text": "Text 2"
+    },
+    {
+      "id": 3,
+      "title": "Title 3",
+      "text": "Text 3"
+    },
+    {
+      "id": 4,
+      "title": "Title 4",
+      "text": "Text 4"
+    },
   ],
   "profile": {
     "name": "typicode"
